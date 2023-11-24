@@ -1,3 +1,5 @@
+Fork of monospice/laravel-redis-sentinel-drivers
+
 Laravel Drivers for Redis Sentinel
 ==================================
 
